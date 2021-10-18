@@ -118,7 +118,7 @@ body.dark {
     border-radius: 50%;
     box-shadow: var(--shadow-black-300);
     background-color: var(--bg-dark);
-    z-index: 12000;
+    z-index: 120;
     color: #fff;
     font-size: 16px;
     text-align: center;
